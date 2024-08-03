@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1722195808358,
+      "tag": "0000_romantic_wolfsbane",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1722266104439,
+      "tag": "0001_long_caretaker",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1722268944978,
+      "tag": "0002_cuddly_silver_samurai",
+      "breakpoints": true
+    }
+  ]
+}
